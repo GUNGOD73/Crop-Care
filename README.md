@@ -1,4 +1,4 @@
-Crop Care | Python, Flask, HTML, CSS, JavaScript, Bootstrap
+##Crop Care | Python, Flask, HTML, CSS, JavaScript, Bootstrap
 
 Overview
 Crop Care is a machine learning-powered web application designed to detect plant diseases from images of leaves with high accuracy. Leveraging a custom-built Convolutional Neural Network (CNN) model, the system classifies plant diseases in real-time, providing users with quick diagnoses. The web app, built with Flask, allows users to upload leaf images and receive results in just 5 seconds, ensuring timely intervention for crop protection.
